@@ -1,0 +1,117 @@
+.whiteDiv{
+    width:40%;
+    height: 589px;
+    background-color: #fff;
+    position: absolute;
+    top: 75rem;
+    left: 45rem;
+}
+
+.whiteform{
+    position: absolute;
+    top: 80rem;
+    left: 78rem;
+    background-color: cadetblue;
+    color: #000;
+}
+
+.user_name{
+    position:absolute;
+    top:7rem;
+    left: 5rem;
+    width: 300px;
+    height: 3rem;
+    color: #8c7b7b;
+    border:none;
+    outline: black;
+    resize: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.1px;
+}
+
+.input-name-line{
+    width: 420px;
+    position: absolute;
+    top: 10rem;
+    left: 5rem;
+    border-top: 1px solid black;
+}
+
+
+
+.user_email{
+    position:absolute;
+    top:12rem;
+    left: 5rem;
+    width: 300px;
+    height: 3rem;
+    color: #8c7b7b;
+    border:none;
+    outline: black;
+    resize: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.1px;
+}
+
+.input-email-line{
+    width: 420px;
+    position: absolute;
+    top: 15rem;
+    left: 5rem;
+    border-top: 1px solid black;
+}
+
+.message{
+    position:absolute;
+    top:18rem;
+    left: 5rem;
+    width: 300px;
+    height: 3rem;
+    color: #8c7b7b;
+    border:none;
+    outline: black;
+    resize: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.1px;
+}
+
+.input-type-line{
+    width: 420px;
+    position: absolute;
+    top: 21rem;
+    left: 5rem;
+    border-top: 1px solid black;
+}
+
+.btn-getIn-btn{
+    width: 10rem;
+    height: 3rem;
+    position: absolute;
+    top: 26rem;
+    left: 12rem;
+    color: #fff;
+    background-color: rgb(32, 134, 138);
+    font-weight: 800;
+    font-size: 12px;
+    text-transform: uppercase;
+    border: none;
+}
+
+.btn-getIn-btn:hover{
+    background-color: cadetblue ;
+}

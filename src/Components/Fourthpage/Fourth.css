@@ -1,0 +1,52 @@
+.mainheading{
+    width: 100%;
+    height: 86rem;
+}
+
+.special{
+    position: absolute;
+    top: 163rem;
+    left: 5rem;
+    color: black;
+    text-transform: uppercase;
+    font-family: italic;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.new{
+    position: absolute;
+    top: 164rem;
+    left: 5rem;
+    color: black;
+    font-size: 55px;
+    font-weight:400;
+    font-family: italic;
+    text-transform: capitalize;
+    text-align: left;
+}
+
+.paragraph{
+    position: absolute;
+    top: 178rem;
+    left: 5rem;
+    color: #8c7b7b;
+    font-size: 20px;
+    text-align: left;
+}
+
+.chef{
+    position: absolute;
+    top: 160rem;
+    left: 40rem;
+    width: 20rem;
+    height: 36rem;
+}
+
+.glass{
+    position: absolute;
+    top: 160rem;
+    left: 63rem;
+    width: 20rem;
+    height: 36rem;
+}

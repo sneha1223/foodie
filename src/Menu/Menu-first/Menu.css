@@ -1,0 +1,262 @@
+.mainpagediv{
+    position: absolute;
+    top: 10rem;
+    width: 100%;
+    height:100rem;
+   background-color: #f5f4f4;
+}
+
+.choose{
+    font-family: italic;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10rem;
+    text-transform: uppercase;
+    color: #3b241c;
+}
+
+.menus{
+    font-family: italic;
+    font-size: 70px;
+    font-weight: 500;
+    color: black;
+    position: absolute;
+    top: 10rem;
+    left: 30rem;
+    text-transform: capitalize;
+}
+
+.first{
+    position: absolute;
+    top: 20rem;
+    left: 3rem;
+    text-transform: capitalize;
+    font-weight: 100;
+    font-family: italic;
+}
+.line{
+    width: 220px;
+    position: absolute;
+    top: 22.5rem;
+    left: 21rem;
+}
+
+.price{
+    color: #bd0808;
+    position: absolute;
+    top: 20rem;
+    left: 35rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.sub{
+    position: absolute;
+    top: 23rem;
+    left: 3rem;
+    color: #8c7b7b;
+    font-size: 20px;
+}
+
+.scnd{
+    position: absolute;
+    top: 28rem;
+    left: 3rem;
+    text-transform: capitalize;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.line1{
+    width: 260px;
+    position: absolute;
+    top: 30.5rem;
+    left: 19rem;
+}
+
+.price1{
+    color: #bd0808;
+    position: absolute;
+    top: 28rem;
+    left: 35rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.sub1{
+    position: absolute;
+    top: 31rem;
+    left: 3rem;
+    color: #8c7b7b;
+    font-size: 20px;
+}
+
+.thirds{
+    position: absolute;
+    top: 35rem;
+    left: 3rem;
+    text-transform: capitalize;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.line2{
+    width: 183px;
+    position: absolute;
+    top: 37rem;
+    left: 24rem;
+}
+
+.price2{
+    color: #bd0808;
+    position: absolute;
+    top: 35rem;
+    left: 35rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.sub2{
+    position: absolute;
+    top: 38rem;
+    left: 3rem;
+    color: #8c7b7b;
+    font-size: 20px; 
+}
+
+.fourth{
+    position: absolute;
+    top: 20rem;
+    left: 45rem;
+    text-transform: capitalize;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.line3{
+    width: 190px;
+    position: absolute;
+    top: 22rem;
+    left: 65rem;
+}
+
+.price3{
+    color: #bd0808;
+    position: absolute;
+    top: 19.5rem;
+    left: 77rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.sub3{
+    position: absolute;
+    top: 23rem;
+    left: 45.5rem;
+    color: #8c7b7b;
+    font-size: 20px;
+}
+
+.fifth{
+    position: absolute;
+    top: 28rem;
+    left: 45rem;
+    text-transform: capitalize;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.line4{
+    width: 243px;
+    position: absolute;
+    top: 30rem;
+    left: 61rem;
+}
+
+.price4{
+    color: #bd0808;
+    position: absolute;
+    top: 27.5rem;
+    left: 77rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.sub4{
+    position: absolute;
+    top: 31rem;
+    left: 45rem;
+    color: #8c7b7b;
+    font-size: 20px;
+}
+
+.sixth{
+    position: absolute;
+    top: 35rem;
+    left: 45rem;
+    text-transform: capitalize;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.line5{
+    width: 245px;
+    position: absolute;
+    top: 37rem;
+    left: 61rem;
+}
+
+.price5{
+    color: #bd0808;
+    position: absolute;
+    top: 34.5rem;
+    left: 77rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.sub5{
+    position: absolute;
+    top: 38rem;
+    left: 45rem;
+    color: #8c7b7b;
+    font-size: 20px;
+}
+
+
+.interiors{
+    position: absolute;
+    top: 54rem;
+    left: 0%;
+    height: 50rem;
+    width: 25rem;
+    touch-action: auto;
+    cursor: pointer;
+}
+
+.chef-imgs{
+    position: absolute;
+    top: 54rem;
+    left: 25rem;
+    height: 25rem;
+    width: 25rem;
+    cursor: pointer;
+}
+
+.beer-glasses{
+    position: absolute;
+    top: 79rem;
+    left: 25rem;
+    height: 25rem;
+    width: 25rem;
+    cursor: pointer;
+}
+
+.rests{
+    position: absolute;
+    top: 54rem;
+    left: 50rem;
+    height: 50rem;
+    width: 35rem;
+    cursor: pointer;
+}

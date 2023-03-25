@@ -1,0 +1,41 @@
+.fifth-images{
+    width: 100%;
+}
+
+.interior{
+    position: absolute;
+    top: 203rem;
+    left: 0%;
+    height: 100%;
+    width: 25rem;
+    
+    cursor: pointer;
+}
+
+
+.chef-img{
+    position: absolute;
+    top: 203rem;
+    left: 25rem;
+    height: 50%;
+    width: 25rem;
+    cursor: pointer;
+}
+
+.beer-glass{
+    position: absolute;
+    top: 223rem;
+    left: 25rem;
+    height: 50%;
+    width: 25rem;
+    cursor: pointer;
+}
+
+.rest{
+    position: absolute;
+    top: 203rem;
+    left: 50rem;
+    height: 100%;
+    width: 35rem;
+    cursor: pointer;
+}

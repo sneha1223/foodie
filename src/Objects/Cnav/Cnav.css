@@ -1,0 +1,95 @@
+.homely{
+position: absolute;
+top: 2rem;
+left: 4rem;
+color: #000;
+text-transform: uppercase;
+font-weight: bold;
+font-size: small;
+cursor: pointer;
+}
+
+.aboutus{
+position: absolute;
+top: 2rem;
+left: 8rem;
+color: #000;
+text-transform: uppercase;
+font-weight: bold;
+font-size: small;
+cursor: pointer;
+}
+
+.menulist{
+position: absolute;
+top: 2rem;
+left: 14rem;
+color: #000;
+font-weight: bold;
+font-size: small;
+text-transform: uppercase;
+cursor: pointer;
+}
+
+.reservations{
+position: absolute;
+top: 2rem;
+left: 18rem;
+color: #000;
+text-transform: uppercase;
+font-weight: bold;
+font-size: small;
+cursor: pointer;
+}
+
+.contactus{
+position: absolute;
+top: 2rem;
+left: 24rem;
+color: #000;
+text-transform: uppercase;
+font-weight: bold;
+font-size: small;
+cursor: pointer;
+}
+
+.foodie{
+position: absolute;
+top: 1rem;
+left: 36rem;
+}
+
+.search-nav{
+position: absolute;
+top: 3rem;
+left: 60rem;
+color: #000;
+fill: #000;
+}
+.app{
+    position: absolute;
+    top: 2.5rem;
+    left: 64rem;
+    width: 2rem;
+    height: 2rem;
+}
+
+.booknows{
+background-color:#290402;
+color: #fff;
+text-transform: uppercase;
+font-size: small;
+font-weight: bold;
+cursor: pointer;
+width: 12rem;
+height: 4rem;
+position: absolute;
+top: 2rem;
+left: 70rem;
+border: none;
+}
+
+.booknow:hover{
+background-color: #593230;
+}
+

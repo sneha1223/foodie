@@ -1,0 +1,222 @@
+.mainmenu{
+    width: 100%;
+    height: 30rem;
+    background-color: #fff;
+    position: absolute;
+    margin-top: 110rem;
+}
+
+.firstDiv{
+    width: 50%;
+    height: 50rem;
+}
+
+.vitello{
+    position: absolute;
+    top: 5rem;
+    left:5rem;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: italic;
+    text-transform: capitalize;
+}
+
+.firstline{
+    position: absolute;
+    top: 7rem;
+    left: 16rem;
+    width: 320px;
+}
+
+.firstprice{
+    color: #bd0808;
+    position: absolute;
+    top: 5rem;
+    left: 36rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.firstsub{
+    position: absolute;
+    top: 8rem;
+    left: 5rem;
+    color: #8c7b7b;
+    font-size: 20px;
+    font-weight:normal;
+}
+
+.crema{
+    position: absolute;
+    top: 5rem;
+    left:45rem;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: italic;
+    text-transform: capitalize;
+}
+
+.secondline{
+    position: absolute;
+    top: 7rem;
+    left: 60rem;
+    width:234px;
+}
+
+.secondprice{
+    color: #bd0808;
+    position: absolute;
+    top: 5rem;
+    left: 75rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.secondsub{
+    position: absolute;
+    top: 8rem;
+    left: 45rem;
+    color: #8c7b7b;
+    font-size: 20px;
+    font-weight:normal;
+}
+
+.verde{
+    position: absolute;
+    top: 12rem;
+    left:5rem;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: italic;
+    text-transform: capitalize;
+}
+
+.thirdline{
+    position: absolute;
+    top: 14rem;
+    left: 16rem;
+    width: 326px;
+}
+
+.thirdprice{
+    color: #bd0808;
+    position: absolute;
+    top: 12rem;
+    left: 36rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.thirdsub{
+    position: absolute;
+    top: 15rem;
+    left: 5rem;
+    color: #8c7b7b;
+    font-size: 20px;
+    font-weight:normal;
+}
+
+.malafi{
+    position: absolute;
+    top: 12rem;
+    left:45rem;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: italic;
+    text-transform: capitalize;
+}
+
+.fourthline{
+    position: absolute;
+    top: 14rem;
+    left: 61rem;
+    width: 228px;
+}
+
+.fourthprice{
+    color: #bd0808;
+    position: absolute;
+    top: 12rem;
+    left: 75rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.fourthsub{
+    position: absolute;
+    top: 15rem;
+    left: 45rem;
+    color: #8c7b7b;
+    font-size: 20px;
+    font-weight:normal;
+}
+
+.linguine{
+    position: absolute;
+    top: 19rem;
+    left:5rem;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: italic;
+    text-transform: capitalize;
+}
+
+.fifthline{
+    position: absolute;
+    top: 21rem;
+    left: 23rem;
+    width: 219px;
+}
+
+.fifthprice{
+    color: #bd0808;
+    position: absolute;
+    top: 19rem;
+    left: 36rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.fifthsub{
+    position: absolute;
+    top: 22rem;
+    left: 5rem;
+    color: #8c7b7b;
+    font-size: 20px;
+    font-weight:normal;
+}
+
+.stinco{
+    position: absolute;
+    top: 19rem;
+    left:45rem;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: italic;
+    text-transform: capitalize;
+}
+
+.sixthline{
+    position: absolute;
+    top: 21rem;
+    left: 59rem;
+    width: 264px;
+}
+
+.sixthprice{
+    color: #bd0808;
+    position: absolute;
+    top: 19rem;
+    left: 75rem;
+    font-weight: 100;
+    font-family: italic;
+}
+
+.sixthsub{
+    position: absolute;
+    top: 22rem;
+    left: 45rem;
+    color: #8c7b7b;
+    font-size: 20px;
+    font-weight:normal;
+}

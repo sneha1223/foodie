@@ -1,0 +1,178 @@
+.aboutDiv{
+    width: 100%;
+    height: 155rem;
+}
+
+
+.abt-img{
+    width: 100%;
+    height: 683px;
+    margin-top: 10rem;
+}
+
+.about-us{
+    margin-top: 10rem;
+    margin-left: 5rem;
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: italic;
+}
+
+.visit{
+    margin-top: 2rem;
+    margin-left: 5rem;
+    color: black;
+    font-size: 55px;
+    font-weight:400;
+    font-family: italic;
+    text-transform: capitalize;
+    text-align: left;
+}
+
+.visit-sub{
+    position: absolute;
+    margin-top: 0rem;
+    margin-left: 5rem;
+    font-size: 18px;
+    color:#8c7b7b ;
+}
+
+.info-mail{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    margin-top: 8rem;
+    left: 5rem;
+}
+
+.fish{
+    position:absolute;
+    top: 75rem;
+    margin-left: 46rem;
+    font-family: italic;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.fish-line{
+    border: 3px solid #8c7b7b;
+    width: 559px;
+    left: 46rem;
+    position: absolute;
+    top: 79rem;
+   
+}
+
+.green-fish{
+    border: 3px solid green;
+    width: 459px;
+    left: 46rem;
+    position: absolute;
+    top: 79rem;
+    animation-name: fishing;
+    animation-duration: 0.8s;
+    animation-timing-function: linear;
+    animation-delay: 0.4s;
+}
+
+@keyframes fishing{
+    0%{
+        width: 0px;
+    }
+    50%{
+        width: 20%;
+    }
+
+}
+
+.meat{
+    position:absolute;
+    top: 81rem;
+    margin-left: 46rem;
+    font-family: italic;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.meat-line{
+    border: 3px solid #8c7b7b;
+    width: 559px;
+    left: 46rem;
+    position: absolute;
+    top: 85rem;
+    
+}
+
+.green-meat{
+    border: 3px solid rgb(12, 97, 12);
+    width:345px;
+    left: 46rem;
+    position: absolute;
+    top: 85rem;
+    animation-name: meat-animation;
+    animation-duration: 0.8s;
+    animation-timing-function: linear;
+    animation-delay: 0.4s;
+}
+
+@keyframes meat-animation{
+    0%{
+        width: 0px;
+    }
+    50%{
+        width: 20%;
+    }
+
+}
+
+
+.veg{
+    position:absolute;
+    top: 87rem;
+    margin-left: 46rem;
+    font-family: italic;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.veg-line{
+    border: 3px solid #8c7b7b;
+    width: 559px;
+    left: 46rem;
+    position: absolute;
+    top: 92rem;
+   
+}
+
+.green-veg{
+    border: 3px solid rgb(10, 87, 10);
+    width:445px;
+    left: 46rem;
+    position: absolute;
+    top: 92rem;
+    animation-name: veg-animation;
+    animation-duration: 0.8s;
+    animation-timing-function: linear;
+    animation-delay: 0.4s;
+}
+
+
+@keyframes veg-animation{
+    0%{
+        width: 0px;
+    }
+    50%{
+        width: 20%;
+    }
+
+}
+.abt-vdo{
+    width: 100%;
+    height: 683px;
+    margin-top: 25rem;
+}

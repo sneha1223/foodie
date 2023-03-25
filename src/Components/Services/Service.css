@@ -1,0 +1,234 @@
+body{
+    margin: 0;
+}
+
+.mainDiv{
+    background-color: #fff;
+    padding: 20px;
+    overflow-y: hidden;
+}
+.images{
+   width: 30rem;
+   height: 20rem;
+}
+
+.fstimg{
+    position: absolute;
+    top: 50rem;
+    left: 8rem;
+    width: 25rem;
+    height: 30rem;
+}
+
+.scndimg{
+    position: absolute;
+    top: 63rem;
+    left: 23rem;
+    width: 25rem;
+    height: 30rem;
+}
+
+
+.hr-1{
+    color: #857e7b;
+    position: absolute;
+    top: 57rem;
+    left: 34rem;
+   animation-name: loader;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-delay: 0.1ms;
+    animation-iteration-count: infinite;
+    animation-direction:alternate-reverse;
+    height: 5rem;
+}
+
+@keyframes loader {
+    0%{
+       height: 2rem;
+       
+    }
+    50%{
+       height: 5rem;
+    }
+}
+
+
+.hr-2{
+    animation-name: loader-2;
+     animation-duration: 5s;
+     animation-timing-function: linear;
+     animation-delay: .03s;
+     animation-iteration-count: infinite;
+     animation-direction:alternate-reverse;
+     height: 5rem;
+     color: #857e7b;
+     position: absolute;
+     top: 57rem;
+     left: 34.5rem;
+ }
+ 
+ @keyframes loader-2 {
+     0%{
+        height: 2rem;
+        
+     }
+     50%{
+        height: 5rem;
+     }
+ }
+
+ 
+.hr-3{
+    animation-name: loader-3;
+     animation-duration: 5s;
+     animation-timing-function: linear;
+     animation-delay: .03s;
+     animation-iteration-count: infinite;
+     animation-direction:alternate-reverse;
+     height: 5rem;
+     color: #857e7b;
+     position: absolute;
+     top: 57rem;
+     left: 35rem;
+ }
+ 
+ @keyframes loader-3 {
+     0%{
+        height: 2rem;
+        
+     }
+     50%{
+        height: 5rem;
+     }
+ }
+
+ 
+.hr-4{
+    animation-name: loader-4;
+     animation-duration: 5s;
+     animation-timing-function: linear;
+     animation-delay: .03s;
+     animation-iteration-count: infinite;
+     animation-direction:alternate-reverse;
+     height: 5rem;
+     color: #857e7b;
+     position: absolute;
+     top: 57rem;
+     left: 35.5rem;
+ }
+ 
+ @keyframes loader-4 {
+     0%{
+        height: 2rem;
+        
+     }
+     50%{
+        height: 5rem;
+     }
+ }
+
+ 
+.hr-5{
+    animation-name: loader-5;
+     animation-duration: 5s;
+     animation-timing-function: linear;
+     animation-delay: .03s;
+     animation-iteration-count: infinite;
+     animation-direction:alternate-reverse;
+     height: 5rem;
+     color: #857e7b;
+     position: absolute;
+     top: 57rem;
+     left: 36rem;
+ }
+ 
+ @keyframes loader-5 {
+     0%{
+        height: 2rem;
+        
+     }
+     50%{
+        height: 5rem;
+     }
+ }
+.quality{
+    position: absolute;
+    top: 48rem;
+    left:55rem; 
+    font-family: italic;
+    font-size: medium;
+    font-weight: 500;
+    font-size: 20px;
+    color: #3b241c;
+    text-transform: uppercase;
+}
+
+.main{
+    position: absolute;
+    top: 50rem;
+    left: 55rem;
+    font-family: italic;
+    font-size:50px;
+    font-weight: 1000;
+    color:  #3b241c;
+    
+}
+
+.wine{
+    position: absolute;
+    top: 53rem;
+    left: 55rem;
+    font-family: italic;
+    font-size:50px;
+    font-weight: 1000;
+    color:  #3b241c;
+}
+
+.note{
+    position: absolute;
+    top: 60rem;
+    left: 55rem;
+    color: #857e7b;
+    font-size: 20px;
+    text-align: left;
+}
+
+.time1{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color:#3b241c ;
+    position: absolute;
+    top: 70rem;
+    left: 55rem;
+}
+
+.time2{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color:#3b241c ;
+    position: absolute;
+    top: 73rem;
+    left: 55rem;
+}
+
+.more{
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #33170d;
+    font-weight: bold;
+    font-size: 15px;
+    width: 15rem;
+    height: 5rem;
+    cursor: pointer;
+    position: absolute;
+    top: 80rem;
+    left: 55rem;
+    text-align: center;
+}
+
+.more:hover{
+    background-color: #593230;
+}

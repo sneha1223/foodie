@@ -1,0 +1,161 @@
+.signDiv{
+    width: 35%;
+    height: 600px;
+    margin-left: 25rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.signdetail{
+    border: 1px solid black;
+    background-image: linear-gradient(to right, rgb(126, 6, 56), rgb(245, 59, 27));
+    width: 300px;
+    height: 500px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+.signup{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    font-family:italic;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.sign-name{
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 16px;
+    width: 255px;
+    height: 35px;
+    border: none;
+    outline: none;
+    resize: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.1px;   
+}
+
+.sign-line{
+    width: 257px;
+    position: absolute;
+    top: 12.5rem;
+    left: 1rem;
+    border-top: 1px solid black;
+}
+
+.sign-email{
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 16px;
+    width: 255px;
+    height: 35px;
+    border: none;
+    outline: none;
+    resize: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.1px;  
+}
+
+.signemail-line{
+    width: 257px;
+    position: absolute;
+    top: 16.5rem;
+    left: 1rem;
+    border-top: 1px solid black;
+}
+
+
+.sign-phone{
+    position: absolute;
+    margin-top: 307px;
+    margin-left: 16px;
+    width: 255px;
+    height: 35px;
+    border: none;
+    outline: none;
+    resize: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.1px;
+}
+
+.signphone-line{
+    width: 257px;
+    position: absolute;
+    top: 20.5rem;
+    left: 1rem;
+    border-top: 1px solid black;
+}
+
+.sign-pass{
+    position: absolute;
+    margin-top:365px;
+    margin-left: 16px;
+    width: 255px;
+    height: 35px;
+    border: none;
+    outline: none;
+    resize: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.1px;
+}
+.signpass-line{
+    width: 257px;
+    position: absolute;
+    top: 24.5rem;
+    left: 1rem;
+    border-top: 1px solid black;
+}
+
+
+
+.sign-btn{
+    width: 95px;
+    height: 46px;
+    position: absolute;
+    top: 27rem;
+    left: 7rem;
+   background-color: #6e0d08;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    font-family: italic;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+.sign-btn:hover{
+    background-color:#782723 ;
+}
+
+.acnt{
+    position: absolute;
+    top: 28rem;
+    left: 32rem;
+    color: #fff;
+}

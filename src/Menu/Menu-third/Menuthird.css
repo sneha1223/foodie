@@ -1,0 +1,128 @@
+.menuthirdDiv{
+     width: 100%;
+     height: 50rem;
+     position: absolute;
+     margin-top: 140rem;
+     background-color: #edeef0;
+}
+
+.offer{
+     font-family: italic;
+     font-size: 15px;
+     font-weight: bold;
+     text-transform: uppercase;
+     position: absolute;
+    top: 4rem;
+    left: 9rem;
+}
+
+.offer-line{
+     width:35px;
+     position: absolute;
+     top: 5rem;
+     left: 5rem;
+     line-height: 1.6;
+     border: 1px solid black;
+}
+
+.explore{
+     position: absolute;
+     top: 5rem;
+     left: 5rem;
+     color: #3b241c;
+     font-family: italic;
+     font-size: 60px;
+     font-weight: bold;
+     text-transform: capitalize;
+}
+
+.back1{
+     background-image: url('https://images.pexels.com/photos/2144112/pexels-photo-2144112.jpeg?auto=compress&cs=tinysrgb&w=600');
+     position: absolute;
+     top: 15rem;
+     left: 5rem;
+     width: 493px;
+     height: 399px;
+}
+
+.back2{
+     background-image: url('https://images.pexels.com/photos/2144112/pexels-photo-2144112.jpeg?auto=compress&cs=tinysrgb&w=600');
+     position: absolute;
+     top: 15rem;
+     left: 25rem;
+     width: 493px;
+     height: 399px;
+}
+
+.back3{
+     background-image: url('https://images.pexels.com/photos/1813466/pexels-photo-1813466.jpeg?auto=compress&cs=tinysrgb&w=600');
+     position: absolute;
+     top: 15rem;
+     left: 35rem;
+     width: 493px;
+     height: 399px;
+}
+
+.subscribe{
+     position: absolute;
+     top: 50rem;
+     left: 5rem;
+     font-family:italic;
+     float: left;
+     font-size: 60px;
+     font-weight: 500;
+     color: #3b241c;
+}
+
+.email{
+     position: absolute;
+     top: 54rem;
+     left: 35rem;
+     color: #8c7b7b;
+    border: none;
+    outline: none;
+    resize: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0.1px;
+}
+
+.email-lines{
+    width: 420px;
+    position: absolute;
+    top: 56rem;
+    left: 35rem;
+    border-top: 1px solid black;
+}
+
+.btn{
+     position: absolute;
+     top: 58rem;
+     left: 35rem;
+     width: 19px;
+     height: 18px;
+     cursor: pointer;
+     border-radius: 5px;
+     border:0.5px solid #8c7b7b;
+}
+
+.policy{
+     position: absolute;
+     top: 57rem;
+     left: 37rem;
+     color: #8c7b7b;
+     font-size: 15px;
+}
+
+.subsc{
+     position: absolute;
+     top: 55rem;
+     left: 70rem;
+     font-size: 15px;
+     font-weight: 500;
+     text-transform: uppercase;
+}

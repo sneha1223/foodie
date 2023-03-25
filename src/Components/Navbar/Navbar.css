@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+}
+
+.mainDivs{
+    padding: 0px;
+    overflow-y: inherit;
+}
+
+.navbarDiv{
+    background-image: url("https://images.pexels.com/photos/5185693/pexels-photo-5185693.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    width: 1900px;
+    height:650px;
+    background-size: 1500px;
+    overflow-y: hidden;
+}
+
+.homy{
+    position: absolute;
+    top: 2rem;
+    left: 4rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: small;
+    cursor: pointer;
+}
+
+.about{
+    position: absolute;
+    top: 2rem;
+    left: 8rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: small;
+    cursor: pointer;
+}
+
+.menu{
+    position: absolute;
+    top: 2rem;
+    left: 14rem;
+    color: #fff;
+    font-weight: bold;
+    font-size: small;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.reservation{
+    position: absolute;
+    top: 2rem;
+    left: 18rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: small;
+    cursor: pointer;
+}
+
+.contact{
+    position: absolute;
+    top: 2rem;
+    left: 24rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: small;
+    cursor: pointer;
+}
+
+.image{
+    position: absolute;
+    top: 1rem;
+    left: 36rem;
+}
+
+.search{
+    position: absolute;
+    color: #fff;
+    top: 2.5rem;
+    height: 2rem;
+    width: 2rem;
+    left: 60rem;
+    fill: #fff;
+}
+
+.appicon{
+    position: absolute;
+    top: 2.5rem;
+    left: 64rem;
+    width: 2rem;
+    height: 2rem; 
+    color: #fff;
+    fill: #fff;
+}
+
+
+.booknow{
+    background-color:#290402;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: bold;
+    cursor: pointer;
+    width: 8rem;
+    height: 3rem;
+    position: absolute;
+    top: 2rem;
+    left: 70rem;
+    border: none;
+}
+
+.booknow:hover{
+    background-color: #593230;
+}
+
+.since{
+   color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 15rem;
+    left: 36rem;
+}

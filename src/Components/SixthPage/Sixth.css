@@ -1,0 +1,75 @@
+.sixthdiv{
+    
+    width: 100%;
+}
+
+.prof{
+    color: #000;
+    position: absolute;
+    top: 260rem;
+    font-size: 40px;
+    left: 9rem;
+    font-weight: 100;
+    font-family: italic;
+    text-transform: capitalize;
+}
+
+.products{
+    color: #000;
+    position: absolute;
+    top: 260rem;
+    left: 36rem;
+    font-size: 40px;
+    font-weight: 100;
+    font-family: italic;
+    text-transform: capitalize;
+}
+.recipt{
+    position: absolute;
+    top: 16rem;
+    left: 58rem;
+    
+}
+
+.all{
+    color: #000;
+    position: absolute;
+    top: 260rem;
+    left: 58rem;
+    font-size: 40px;
+    font-weight: 100;
+    font-family: italic;
+    text-transform: capitalize; 
+}
+
+.pc{
+    position: absolute;
+    top: 265rem;
+    left: 9rem;
+    color: #857e7b;
+    font-size: 20px;
+}
+
+.qp{
+    position: absolute;
+    top: 265rem;
+    left: 36rem;
+    color: #857e7b;
+    font-size: 20px;  
+}
+
+.atp{
+    position: absolute;
+    top: 265rem;
+    left: 58rem;
+    color: #857e7b;
+    font-size: 20px;   
+}
+
+.hr{
+    position: absolute;
+    top:280rem;
+    left: 13rem;
+    text-align: center;
+    width: 60rem;
+}
